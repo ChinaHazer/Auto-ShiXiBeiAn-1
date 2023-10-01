@@ -1,0 +1,15 @@
+[
+  {
+    "enable": true,
+    "alias": "韩",
+    "phone": "15136770531",
+    "password": "hzz030828",
+    "deviceType": "Xiaomi | Redmi Note 10 Pro|13",
+    "deviceId": "69c5d9e1632e44a886fcaa9031502522c8ca",
+    "randomLocation": true,
+    "address": "河南省新乡市七里营镇李台村",
+    "longitude": "113.836259",
+    "latitude": "35.175002",
+    "pushKey": "e1db9b00c4574139b56540fdec578d2a"
+  }
+]
